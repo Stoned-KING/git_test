@@ -6,3 +6,4 @@ yes this is it
 
 Here I am again
 Hi to the future!
+change commit default editor to vscode
